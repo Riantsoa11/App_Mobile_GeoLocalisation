@@ -1,4 +1,4 @@
-# 🌍 Orbe
+# 🌍Description
 
 Application mobile de géolocalisation **offline-first**, construite avec Flutter.
 Explorez le globe, découvrez des lieux, gardez-les disponibles hors-ligne, et recevez des alertes pertinentes selon votre position — avec un design inspiré d'iOS.
